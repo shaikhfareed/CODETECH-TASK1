@@ -74,6 +74,7 @@ This project demonstrates the setup of a Continuous Integration/Continuous Deplo
 
 ## Conclusion
 
-By setting up this CI/CD pipeline with Jenkins, we automate the repetitive tasks involved in the software development process, leading to increased efficiency, reduced errors, and faster delivery of high-quality software.
+By setting up this CI/CD pipeline with Jenkins, we automate the repetitive tasks involved in the software development process, leading to increased efficiency, reduced errors, and faster delivery of high-quality software.<img width="800" alt="todo-node-app" src="https://github.com/shaikhfareed/CODETECH-TASK1/assets/134830850/d56fbfa5-684c-4e2a-bb80-a7e9bda2a713">
+
 
 ---
